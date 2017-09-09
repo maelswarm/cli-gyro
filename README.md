@@ -6,7 +6,7 @@ Spinner for your cli.
 
     npm install cli-gyro
     
-## Usage
+## Example
 
     var gyro = require('cli-gyro');
     var spinner = new gyro(['┏ ', '┓ ', '┛ ', '┗ '] /* spinner chars */, 4 /* array length */, 1000 /* interval time */);
